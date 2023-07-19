@@ -1,0 +1,15 @@
+C:\Users\danie\Documents\C#\bucles2\bin\Debug\net7.0\bucles2.exe
+C:\Users\danie\Documents\C#\bucles2\bin\Debug\net7.0\bucles2.deps.json
+C:\Users\danie\Documents\C#\bucles2\bin\Debug\net7.0\bucles2.runtimeconfig.json
+C:\Users\danie\Documents\C#\bucles2\bin\Debug\net7.0\bucles2.dll
+C:\Users\danie\Documents\C#\bucles2\bin\Debug\net7.0\bucles2.pdb
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.AssemblyInfo.cs
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.dll
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\refint\bucles2.dll
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.pdb
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\bucles2.genruntimeconfig.cache
+C:\Users\danie\Documents\C#\bucles2\obj\Debug\net7.0\ref\bucles2.dll
